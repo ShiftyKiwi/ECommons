@@ -1,5 +1,3 @@
-﻿using Dalamud.Game.Network;
-
 namespace ECommons.DalamudServices.Legacy;
 
 public interface IGameNetwork
